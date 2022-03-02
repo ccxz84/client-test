@@ -1,0 +1,11 @@
+# Build and test
+.tmp/
+coverage/
+dist/
+
+# Modules
+node_modules/
+package-lock.json
+
+# Editors
+.vscode/
